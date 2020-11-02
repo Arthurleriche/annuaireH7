@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Secteur: MyString
+  Nom: MyString
+  BaseLine: MyString
+  Pitch: MyString
+  Fondateur1: MyString
+  Fondateur2: MyString
+  Fondateur3: MyString
+  Fondateur4: MyString
+  NombreDeCollaborateurs: 1
+  Email: MyString
+  SiteWeb: MyString
+  Log: MyString
+
+two:
+  Secteur: MyString
+  Nom: MyString
+  BaseLine: MyString
+  Pitch: MyString
+  Fondateur1: MyString
+  Fondateur2: MyString
+  Fondateur3: MyString
+  Fondateur4: MyString
+  NombreDeCollaborateurs: 1
+  Email: MyString
+  SiteWeb: MyString
+  Log: MyString
