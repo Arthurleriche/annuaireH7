@@ -8,4 +8,5 @@ Rails.application.routes.draw do
   end
     root 'pages#home'
     get '/start_up', to: 'pages#start_up'
+    get '*path', to: 'pages#home', via: :all
 end

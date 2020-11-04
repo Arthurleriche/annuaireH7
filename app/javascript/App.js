@@ -8,7 +8,7 @@ import Drop2 from './components/Drop2'
 import 'antd/dist/antd.css'
 
 
-import './App.css';
+// import './App.css';
 
 function App() {
   const tab = [

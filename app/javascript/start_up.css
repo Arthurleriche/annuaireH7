@@ -1,8 +1,0 @@
-.input-start-up{
-    display: flex; 
-    flex-direction: column
-}
-
-.input-start-up input{
-    background-color: rgb(180, 180, 180);
-}   
